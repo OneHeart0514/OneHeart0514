@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @OneHeart0514
-- 👀 I’m interested in analysis in baseball with Pyhton.
-- 🌱 I’m curious about API
-- I am a student of the University of Tokyo.
-- I do not major in engineering, but I want to acqire Python.
+## Who is OneHeart0514?
+- Hi, I’m @OneHeart0514
+- I am a student of the University of Tokyo, Japan.
+- I’m interested in analysis in baseball with Pyhton.
+- I’m curious about API and machine learning
 
-<!---
-OneHeart0514/OneHeart0514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What is my major?
+-  I have not majored in any disciplines in my university.
+-  I will not major in engineering, but I want to acqire Python.

@@ -5,5 +5,5 @@
 - I’m curious about API and machine learning
 
 ## What is my major?
--  I have not majored in any disciplines in my university.
--  I will not major in engineering, but I want to acqire Python.
+- I major in economics in my university.
+- Now, I am interested in game theory and casual inferene in statisitcs
